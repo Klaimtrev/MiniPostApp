@@ -1,0 +1,1 @@
+Application made using Node.js and MongoDB. Includes CRUD functionalities
